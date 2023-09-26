@@ -6,7 +6,7 @@ El objetivo del siguiente ejercicio es hacer uso de la libreria Chart.js, APIs y
 - HTML
 - CSS
 - JavaScript
-- 
+  
 # Layaout
 
 ![22](https://github.com/Tania-Bobadilla/Dashboard/assets/135383254/2008dcee-9964-46e9-9c84-2b4755ed1849)
