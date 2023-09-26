@@ -13,9 +13,6 @@ El objetivo del siguiente ejercicio es hacer uso de la libreria Chart.js, APIs y
 
 # @media  (max-width: 800px) 
 
-![Presentación1](https://github.com/Tania-Bobadilla/Dashboard/assets/135383254/7f608718-9b07-4d7d-ab90-1af0577a7782)
-
-
-
+![jj](https://github.com/Tania-Bobadilla/Dashboard/assets/135383254/eac0c49e-535c-4211-98b1-cd2d13f4c9ce)
 
 
