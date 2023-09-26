@@ -1,11 +1,47 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
+    <title>Estadísticas del tiempo y sismos en Chile</title>
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300" rel="stylesheet" />
+    <link rel="stylesheet" href="./estilos.css">
     
+</head>
+
+<body>
+    <main>
+
+        <h1>Últimos registros del tiempo y sismos en Chile</h1>
+
+        <hr>
+
+        <section class="cols-2">
+
+            <div>
+                <h2>Temperatura actual en regiones</h2>
+
+                <canvas id="bar-chart"></canvas>
+                </div>
+
+            <div>
+                <h2>Humedad actual en regiones</h2>
+
+                <canvas id="radar-chart" width="500"></canvas>
+            </div>
+
+        </section>
+
+        <section class="cols-1">
+            <div>
+                <h2>Últimos sismos registrados</h2>
+                <canvas id="line-chart" height="300px"></canvas>
+            </div>
+        </section>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="./app.js"></script>
 </body>
-</html>
