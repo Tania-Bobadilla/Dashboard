@@ -1,6 +1,6 @@
 # Dashboard
 
-El objetivo del siguiente ejercicio es hacer uso de la libreria Chart.js, APIs y funciones asincronas para recolectar y mostrar datos a traves de graficos. Los datos manipulados se extrajeron desde https://api.gael.cloud/
+El objetivo del siguiente ejercicio es hacer uso de la libreria Chart.js, APIs y funciones asincronas para recolectar y mostrar datos a traves de graficos. Los datos manipulados se extrajeron desde https://api.gael.cloud/ y estan relacionados con los ultimos registros de temperaturas y sismos en Chile.
 
 ## 3. Tecnologías utilizadas
 - HTML
